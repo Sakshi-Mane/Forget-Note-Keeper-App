@@ -26,20 +26,17 @@ To run the app locally, follow these steps:
 
 1. **Clone the repository:**
 
-    ```bash
-
-    - git clone https://github.com/Sakshi-Mane/Forget-Note-Keeper-App.git
-    - cd my-note-keeper
+- git clone https://github.com/Sakshi-Mane/Forget-Note-Keeper-App.git
+- cd my-note-keeper
 
 2. **Install dependencies:**
 
-    npm install
+npm install
 
 3. **Start the development server:**
 
-    npm start
+npm start
 
-    ```
 
 ## Technologies 
 
