@@ -31,24 +31,24 @@ To run the app locally, follow these steps:
 
 2. **Install dependencies:**
 
-npm install
+    npm install
 
 3. **Start the development server:**
 
-npm start
+    npm start
 
 
 ## Technologies 
 
-    - React.js
-    - CSS Modules (for styling)
+- React.js
+- CSS Modules (for styling)
 
 ## Contributing
 
-    - Fork the repository.
-    - Create a new branch (git branch feature-branch).
-    - Make your changes.
-    - Commit your changes (git commit -m 'Add some feature').
-    - Push to the branch (git push origin feature-branch).
-    - Open a pull request.
+- Fork the repository.
+- Create a new branch (git branch feature-branch).
+- Make your changes.
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
 
