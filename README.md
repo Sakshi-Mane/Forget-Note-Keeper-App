@@ -14,11 +14,7 @@ A simple note-taking application built with React.js. This app allows users to c
 
 - Create new notes
 - Delete notes
-- Responsive design for mobile and desktop
-
-## Demo
-
-A live demo of the app can be found [here](https://example.com). 
+- Responsive design for mobile and desktop 
 
 ## Installation
 
