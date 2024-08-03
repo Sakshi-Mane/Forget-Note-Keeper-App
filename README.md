@@ -5,7 +5,6 @@ A simple note-taking application built with React.js. This app allows users to c
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
